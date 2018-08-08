@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TickerDemo", "TickerDemo\TickerDemo.csproj", "{EC965A73-ECA1-4D02-B7A6-983F1E8AB623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticker", "Ticker\Ticker.csproj", "{4DAE730B-20B3-48D1-8D2D-A01FEC04D5E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC965A73-ECA1-4D02-B7A6-983F1E8AB623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC965A73-ECA1-4D02-B7A6-983F1E8AB623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC965A73-ECA1-4D02-B7A6-983F1E8AB623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC965A73-ECA1-4D02-B7A6-983F1E8AB623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DAE730B-20B3-48D1-8D2D-A01FEC04D5E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAE730B-20B3-48D1-8D2D-A01FEC04D5E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAE730B-20B3-48D1-8D2D-A01FEC04D5E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAE730B-20B3-48D1-8D2D-A01FEC04D5E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
